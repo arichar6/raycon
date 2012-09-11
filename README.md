@@ -15,4 +15,4 @@ To get started using this code, open and run `main.m`.
 
 # License #
 
-You may use it and modify this code with the same terms that are generally accepted in the GNU license; if relevant, it would of course be nice if you tell us about potential bugs that you find and if you properly cite the literature that has been produced by the group to document the team work that resulted in this development.
+You may use and modify this code with the same terms that are generally accepted in the GNU license; if relevant, it would of course be nice if you tell us about potential bugs that you find and if you properly cite the literature that has been produced by the group to document the team work that resulted in this development.
